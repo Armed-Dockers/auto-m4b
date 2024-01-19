@@ -3,8 +3,8 @@
 #file="/temp/mp3merge/auto-m4b-tool.sh"
 #cp -u /auto-m4b-tool.sh /temp/mp3merge/auto-m4b-tool.sh
 
-user_name="autom4b"
-user_id="1001"
+user_name="dietpi"
+user_id="1000"
 
 # Create user if they don't exist
 if ! id -u "${PUID}" &>/dev/null; then
